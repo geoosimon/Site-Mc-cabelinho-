@@ -5,7 +5,11 @@ Tudo sobre o Cantor e Ator Little Hair
 
 
 
-https://github.com/user-attachments/assets/83333855-678d-4b15-a0a5-09adf9305568
+
+
+https://github.com/user-attachments/assets/3ce5e7c9-57a3-4729-8b8d-66d350874f3a
+
+
 
 
 
