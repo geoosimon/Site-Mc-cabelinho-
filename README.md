@@ -10,3 +10,131 @@ Criado na favela, trabalhou desde jovem para ajudar a família, pratica jiu-jits
 Instagram: @mccabelinho
 
 ![1000201340](https://github.com/user-attachments/assets/ead0bea8-4392-4349-aa50-d2ec137a76e8)
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>MC Cabelinho 🎶</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background: url("cabelinho.jpg") no-repeat center center fixed;
+      background-size: cover;
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+      color: white;
+      text-shadow: 2px 2px 8px black;
+    }
+
+    h1 {
+      font-size: 48px;
+      margin-bottom: 10px;
+    }
+
+    p {
+      font-size: 20px;
+      margin-bottom: 30px;
+    }
+
+    button {
+      background: #ff4f81;
+      border: none;
+      color: white;
+      padding: 12px 20px;
+      margin: 5px;
+      border-radius: 10px;
+      cursor: pointer;
+      font-size: 16px;
+      box-shadow: 2px 2px 6px rgba(0,0,0,0.4);
+    }
+
+    button:hover {
+      background: #e03e70;
+    }
+  </style>
+</head>
+<body>
+  <h1>MC Cabelinho</h1>
+  <p>O astro do momento no funk 🎤🔥</p>
+
+  <!-- Botão para tocar -->
+  <button onclick="document.getElementById('player').play()">▶️ Tocar Música</button>
+
+  <!-- Botão para pausar -->
+  <button onclick="document.getElementById('player').pause()">⏸️ Pausar Música</button>
+
+  <!-- Música -->
+  <audio id="player"<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>MC Cabelinho 🎶</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background: url("cabelinho.jpg") no-repeat center center fixed;
+      background-size: cover;
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+      color: white;
+      text-shadow: 2px 2px 8px black;
+    }
+
+    h1 {
+      font-size: 48px;
+      margin-bottom: 10px;
+    }
+
+    p {
+      font-size: 20px;
+      margin-bottom: 30px;
+    }
+
+    button {
+      background: #ff4f81;
+      border: none;
+      color: white;
+      padding: 12px 20px;
+      margin: 5px;
+      border-radius: 10px;
+      cursor: pointer;
+      font-size: 16px;
+      box-shadow: 2px 2px 6px rgba(0,0,0,0.4);
+    }
+
+    button:hover {
+      background: #e03e70;
+    }
+  </style>
+</head>
+<body>
+  <h1>MC Cabelinho</h1>
+  <p>O astro do momento no funk 🎤🔥</p>
+
+  <!-- Botão para tocar -->
+  <button onclick="document.getElementById('player').play()">▶️ Tocar Música</button>
+
+  <!-- Botão para pausar -->
+  <button onclick="document.getElementById('player').pause()">⏸️ Pausar Música</button>
+
+  <!-- Música -->
+  <audio id="player" loop>
+    <source src="cabelinho.mp3" type="audio/mpeg">
+    Seu navegador não suporta áudio.
+  </audio>
+</body>
+</html> loop>
+    <source src="cabelinho.mp3" type="audio/mpeg">
+    Seu navegador não suporta áudio.
+  </audio>
+</body>
+</html>
