@@ -1,9 +1,7 @@
 # Site-Mc-cabelinho-
 Tudo sobre o Cantor e Ator Little Hair 
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/85816c2-9413-4415-8219-215b05e2f9fc" />
-
-
+<img width="1920" height="1080" alt="Black White Grunge Project Presentation" src="https://github.com/user-attachments/assets/937f5006-c21a-44c1-b24c-78e5a67cec68" />
 
 
 
