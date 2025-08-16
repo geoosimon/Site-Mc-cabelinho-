@@ -1,16 +1,11 @@
 # Site-Mc-cabelinho-
 Tudo sobre o Cantor e Ator Little Hair 
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8e5816c2-9413-4415-8219-215b05e2f9fc" />
 
-MC Cabelinho (Victor Hugo Oliveira do Nascimento, 28/01/1996) é cantor, compositor e ator carioca, nascido na comunidade Pavão-Pavãozinho, Rio de Janeiro.
-Iniciou a carreira em 2016 e ficou famoso por misturar funk, rap, trap e R&B. Lançou álbuns como Minha Raiz (2018), Ainda (2020) e Little Love (2022). Participou do projeto Poesia Acústica e fundou a gravadora Bairro 13.
-Também atua na TV e cinema, com papéis em novelas como Amor de Mãe (2019) e Vai na Fé (2023). Foi premiado como “Melhor Trapper” no MTV Millennial Awards.
-Criado na favela, trabalhou desde jovem para ajudar a família, pratica jiu-jitsu e segue o candomblé.
-
-Instagram: @mccabelinho
-
-https://github.com/user-attachments/assets/f67013cd-3a21-4693-a6c7-08fd77be1286
 
 
+https://github.com/user-attachments/assets/730e7819-cf40-47ae-8d9f-b83c37866f70
 
-![1000201340](https://github.com/user-attachments/assets/ead0bea8-4392-4349-aa50-d2ec137a76e8)
+<img width="1920" height="1080" alt="1000201352" src="https://github.com/user-attachments/assets/38d64f39-e6af-46b2-8a13-900042fa5d02" />
+![1000201340](https://github.com/user-attachments/assets/e0bdbc6a-17f2-47b2-877d-269dea62dc36)
